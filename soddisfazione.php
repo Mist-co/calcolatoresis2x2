@@ -2,15 +2,15 @@
 <html lang="it" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <meta author="Alessandro Russo">
+    <meta author="Mist-co">
     <title>Risultato</title>
-    <link rel="shortcut icon" href="https://digilander.libero.it/Detective_mistery/icon_site.ico">
+    <link rel="shortcut icon" href="#">
   	  <script>window.MathJax = { MathML: { extensions: ["mml3.js", "content-mathml.js"]}};</script>
 	  <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=MML_HTMLorMML"></script>
   </head>
   <body oncontextmenu="return false" ondragstart="return false" onselectstart="return false">
     <h1 align='center'>Soddisfazione di sistemi</h1>
-    <h5 align='center'>(© Alessandro Russo - 2019)</h5>
+    <h5 align='center'>(© Mist-co - 2019)</h5>
     <?php
       $coeff1x_str =  $_POST["coeff1x"];
       $coeff2x_str =  $_POST["coeff2x"];
