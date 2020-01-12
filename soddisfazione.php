@@ -10,7 +10,7 @@
   </head>
   <body oncontextmenu="return false" ondragstart="return false" onselectstart="return false">
     <h1 align='center'>Soddisfazione di sistemi</h1>
-    <h5 align='center'>(© Mist-co - 2019)</h5>
+    <h5 align='center'>(© Mist-co - 2020)</h5>
     <?php
       $coeff1x_str =  $_POST["coeff1x"];
       $coeff2x_str =  $_POST["coeff2x"];
